@@ -1,6 +1,7 @@
 Programa hecho en Java con Programación Orientada a Objetos en el que se hace
 uso de Herencia y Polimorfismo, mediante la simulación de una Huerta con Plantas
-compuestas por Frutos. 
+compuestas por Frutos.
+
 Las Plantas pueden ser simplemente Plantas o Trífidos, los cuales heredan las 
 capacidades de las plantes y además pueden desplazarse posiciones y atacar.
 En la Huerta también hay cuidadores de estas plantas, los cuales pueden ser 
